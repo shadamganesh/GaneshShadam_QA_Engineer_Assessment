@@ -1,0 +1,22 @@
+{
+    "user": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "ganesh1@example.com",
+      "password": "password123",
+      "confirmPassword": "password123"
+    },
+    "billingAddress": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "ganesh1@example.com",
+      "company": "Company Inc.",
+      "country": "United States",
+      "city": "New York",
+      "address1": "123 Main St",
+      "zipPostalCode": "10001",
+      "phoneNumber": "1234567890"
+    },
+    "product": "Laptop"
+  }
+  
